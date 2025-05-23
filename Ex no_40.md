@@ -55,7 +55,7 @@ bc bc a
 
 
 # EX 40 C program to print each permutation as a list of space-separated strings on a single line.
-## DATE:11/05/2025
+## DATE:23/05/2025
 ## AIM:
 To write a C program to print each permutation as a list of space-separated strings on a single line.
 
@@ -74,8 +74,8 @@ To write a C program to print each permutation as a list of space-separated stri
 ```
 /*
 C program to find the smallest among three numbers using Structure.
-Developed by: Kamalesh S
-RegisterNumber:  212223060108
+Developed by: AASHIKA PARVEEN M R
+RegisterNumber:  212223060002
 */
 #include <stdio.h>
 #include <string.h>
